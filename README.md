@@ -2,7 +2,7 @@
 
 Estimate reading time and speaking time from text with a configurable words-per-minute rate, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/text-tools/reading-time-calculator
+**Live Demo:** https://file-converter-free.com/en/text-tools/reading-time-calculator-online
 
 ## How It Works
 
